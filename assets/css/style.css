@@ -150,12 +150,12 @@ body {
 
 .text {
     background-color: #4CAF50;
-    color: white;
+    color: green;
     font-size: 16px;
     padding: 16px 32px;
 }
 
-.tGreen { color: green}
+.tGreen {}
 
 
 .cardBg
