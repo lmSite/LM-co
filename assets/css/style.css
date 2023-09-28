@@ -154,6 +154,10 @@ body {
     font-size: 16px;
     padding: 16px 32px;
 }
+
+.tGreen { color:green}
+
+
 .cardBg
 {
     background-color: rgba(223, 250, 104, 0.637);
